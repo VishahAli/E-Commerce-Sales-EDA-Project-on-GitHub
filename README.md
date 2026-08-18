@@ -1,6 +1,6 @@
-# 📊 E-Commerce Sales Data Analysis using Python
+#  E-Commerce Sales Data Analysis using Python
 
-## 📌 Project Overview
+##  Project Overview
 
 This project presents an **Exploratory Data Analysis (EDA)** of an e-commerce sales dataset using Python. The purpose of this project is to understand sales performance, customer purchasing behavior, product performance, payment preferences, coupon usage, referral sources, and other important business patterns.
 
@@ -8,7 +8,7 @@ The project follows a complete data analysis workflow, including **data inspecti
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Analyze overall e-commerce sales performance.
 * Identify revenue trends over time.
@@ -24,7 +24,7 @@ The project follows a complete data analysis workflow, including **data inspecti
 
 ---
 
-## 📂 Dataset Information
+##  Dataset Information
 
 The dataset is provided in Excel format as:
 
@@ -51,7 +51,7 @@ It contains **1,200 e-commerce transaction records** with the following variable
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * **Python**
 * **Jupyter Notebook**
@@ -63,7 +63,7 @@ It contains **1,200 e-commerce transaction records** with the following variable
 
 ---
 
-## 🔍 Analysis Performed
+##  Analysis Performed
 
 ### 1. Data Inspection
 
@@ -84,20 +84,20 @@ It contains **1,200 e-commerce transaction records** with the following variable
 
 The project analyzes:
 
-* 📈 Monthly Revenue Trends
-* 🛍️ Product-wise Revenue
-* 👤 Customer-wise Revenue
-* 💳 Payment Method Distribution
-* 📦 Order Status
-* 🎟️ Coupon Usage
-* 📣 Referral Source Performance
-* 🔢 Quantity and Price Analysis
-* 📊 Correlation Between Numerical Variables
-* 🚨 Outlier Detection
+*  Monthly Revenue Trends
+*  Product-wise Revenue
+*  Customer-wise Revenue
+*  Payment Method Distribution
+*  Order Status
+*  Coupon Usage
+*  Referral Source Performance
+*  Quantity and Price Analysis
+*  Correlation Between Numerical Variables
+*  Outlier Detection
 
 ---
 
-## 📊 Visualizations
+##  Visualizations
 
 The notebook includes visualizations such as:
 
@@ -111,7 +111,7 @@ The notebook includes visualizations such as:
 
 ---
 
-## 💡 Business Insights
+##  Business Insights
 
 The analysis helps identify:
 
@@ -129,7 +129,7 @@ These findings can support data-driven decisions related to **sales, marketing, 
 
 ---
 
-## 📋 Executive Summary
+## Executive Summary
 
 This project demonstrates how Python can be used to transform raw e-commerce transaction data into meaningful business information.
 
@@ -139,7 +139,7 @@ The analysis demonstrates practical skills in **data preparation, Python program
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 E-Commerce-Sales-EDA/
@@ -152,7 +152,7 @@ E-Commerce-Sales-EDA/
 
 ---
 
-## 🚀 Future Scope
+##  Future Scope
 
 The project can be further extended with:
 
@@ -185,7 +185,7 @@ Through this project, I developed practical experience in:
 
 ---
 
-## 👩‍💻 Project Author
+##  Project Author
 
 **Vishah Ali**
 
